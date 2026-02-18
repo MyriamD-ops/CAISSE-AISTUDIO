@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CaisseMobile - Joaillerie & 3D",
+  "description": "Une application de point de vente et catalogue public élégante pour les artisans joailliers et créateurs d'objets imprimés en 3D.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
